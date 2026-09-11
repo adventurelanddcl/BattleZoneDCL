@@ -1,7 +1,7 @@
 # BattleZone
 
 Multiplayer plane combat inside a cave terrain. Continuous 4-minute rounds:
-shoot down other enemy planes, destroy drones, collect bullet, rocket and speed boost collectibles floating in the air.
+shoot down enemy planes, destroy drones, collect bullet, rocket and speed boost collectibles floating in the air.
 
 ## How it plays
 
