@@ -258,8 +258,7 @@ export const PICKUP_MODEL_BOOST = 'assets/models/boost4.glb'
 export const PLANE_MODEL_SRC = 'assets/models/plane-jet-4.glb'
 export const PLANE_ENEMY_MODEL_SRC = 'assets/models/plane-jet-enemy-2.glb'
 export const DRONE_MODEL_SRC = 'assets/models/droneV2.glb'
-export const TERRAIN_MODEL_SRC = 'assets/models/terrain19.glb'
-export const MOBILE_RENDER_DOME_SRC = 'assets/models/mobileRenderDome.glb'
+export const TERRAIN_MODEL_SRC = 'assets/models/cave.glb'
 
 // ── Sound (assets/sounds) ──
 //
