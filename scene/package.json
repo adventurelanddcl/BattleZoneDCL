@@ -1,0 +1,28 @@
+{
+  "name": "Battle Zone",
+  "version": "0.1.0",
+  "description": "Multiplayer plane combat. 4-minute rounds.",
+  "scripts": {
+    "start": "sdk-commands start",
+    "start:server": "npx @dcl/hammurabi-server@next",
+    "deploy": "sdk-commands deploy",
+    "build": "sdk-commands build",
+    "typecheck": "tsc --noEmit",
+    "server-logs": "sdk-commands sdk-server-logs",
+    "upgrade-sdk": "npm install --save-dev @dcl/sdk@auth-server @dcl/js-runtime@auth-server"
+  },
+  "devDependencies": {
+    "@dcl/js-runtime": "7.27.1-33533530571.commit-451d001",
+    "@dcl/sdk": "^7.27.1-33533530571.commit-451d001"
+  },
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=6.0.0"
+  },
+  "prettier": {
+    "semi": false,
+    "singleQuote": true,
+    "printWidth": 120,
+    "trailingComma": "none"
+  }
+}
