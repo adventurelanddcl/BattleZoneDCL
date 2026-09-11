@@ -20,3 +20,9 @@ in the air.
 - **Drones** chase the nearest plane and explode on contact
   (1 damage). One bullet or rocket takes a drone down.
 
+
+## Assets
+
+- Sounds generated using Elevenlabs
+- UI images and textures generated using Gemini
+- 3D models created in Blender
