@@ -1667,7 +1667,7 @@
             },
             "creator": "",
             "disableNearbyVoiceChat": false,
-            "hideLandscapeTerrain": true
+            "hideLandscapeTerrain": false
           }
         }
       }
