@@ -23,3 +23,7 @@ shoot down enemy planes, destroy drones, collect bullet, rocket and speed boost 
 - Sounds generated using Elevenlabs
 - UI images and textures generated using Gemini
 - 3D models created in Blender
+
+## License
+
+Released under the [MIT License](LICENSE).
